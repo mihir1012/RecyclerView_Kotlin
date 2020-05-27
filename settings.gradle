@@ -1,0 +1,2 @@
+rootProject.name='RecyclerView Kotline'
+include ':app'
